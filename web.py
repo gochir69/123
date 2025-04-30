@@ -7,7 +7,7 @@ st.set_page_config(page_title="Кібербезпека", page_icon="🛡️", l
 st.title("🛡️ Кібербезпека — твій цифровий щит")
 st.subheader("Захисти свій бізнес, дані та особисту інформацію в епоху цифрових загроз")
 
-st.image("D:/web/jpg/zagol.jpg", use_container_width=True)
+st.image("/jpg/zagol.jpg", use_container_width=True)
 
 st.markdown("---")
 
